@@ -103,7 +103,7 @@ func (assertion *Assertion) match(matcher types.GomegaMatcher, desiredMatch bool
 			message = matcher.NegatedFailureMessage(actualInput)
 		}
 		description := assertion.buildDescription(optionalDescription...)
-		assertion.g.Fail(description+message, 2+assertion.offset)
+		assertion.g.Fail(message+description, 2+assertion.offset)
 		return false
 	}
 
