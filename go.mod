@@ -1,3 +1,5 @@
+replace github.com/onsi/gomega => github.com/velarii/gomega v0.0.0-20221026121451-d32af2d17e1b
+
 module github.com/onsi/gomega
 
 go 1.18
