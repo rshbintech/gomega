@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/onsi/gomega/format"
+	"github.com/velarii/gomega/format"
 )
 
 // missingFieldError represents a missing field extraction error that

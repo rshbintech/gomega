@@ -7,9 +7,9 @@ import (
 	"time"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/format"
-	"github.com/onsi/gomega/types"
+	. "github.com/velarii/gomega"
+	. "github.com/velarii/gomega/format"
+	"github.com/velarii/gomega/types"
 )
 
 //recursive struct

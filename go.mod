@@ -1,6 +1,4 @@
-replace github.com/onsi/gomega => github.com/velarii/gomega v0.0.0-20221026121451-d32af2d17e1b
-
-module github.com/onsi/gomega
+module github.com/velarii/gomega
 
 go 1.18
 
@@ -8,6 +6,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.9
 	github.com/onsi/ginkgo/v2 v2.4.0
+	github.com/onsi/gomega v1.23.0
 	golang.org/x/net v0.1.0
 	gopkg.in/yaml.v3 v3.0.1
 )

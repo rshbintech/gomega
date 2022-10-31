@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/matchers"
+	. "github.com/velarii/gomega"
+	. "github.com/velarii/gomega/matchers"
 )
 
 type CustomError struct {

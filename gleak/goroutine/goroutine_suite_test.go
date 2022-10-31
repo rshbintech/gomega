@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
+	. "github.com/velarii/gomega"
 )
 
 func TestGoroutine(t *testing.T) {

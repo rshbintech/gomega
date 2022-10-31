@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/onsi/gomega/format"
+	"github.com/velarii/gomega/format"
 )
 
 type BeNumericallyMatcher struct {

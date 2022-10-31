@@ -5,7 +5,7 @@ package gexec
 import (
 	"fmt"
 
-	"github.com/onsi/gomega/format"
+	"github.com/velarii/gomega/format"
 )
 
 /*

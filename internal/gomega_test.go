@@ -4,8 +4,8 @@ import (
 	"runtime"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/internal"
+	. "github.com/velarii/gomega"
+	"github.com/velarii/gomega/internal"
 )
 
 var _ = Describe("Gomega", func() {

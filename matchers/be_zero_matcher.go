@@ -3,7 +3,7 @@ package matchers
 import (
 	"reflect"
 
-	"github.com/onsi/gomega/format"
+	"github.com/velarii/gomega/format"
 )
 
 type BeZeroMatcher struct {

@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/onsi/gomega/format"
-	"github.com/onsi/gomega/types"
+	"github.com/velarii/gomega/format"
+	"github.com/velarii/gomega/types"
 )
 
 var errInterface = reflect.TypeOf((*error)(nil)).Elem()

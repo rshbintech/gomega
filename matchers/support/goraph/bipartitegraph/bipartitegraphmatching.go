@@ -1,9 +1,9 @@
 package bipartitegraph
 
 import (
-	. "github.com/onsi/gomega/matchers/support/goraph/edge"
-	. "github.com/onsi/gomega/matchers/support/goraph/node"
-	"github.com/onsi/gomega/matchers/support/goraph/util"
+	. "github.com/velarii/gomega/matchers/support/goraph/edge"
+	. "github.com/velarii/gomega/matchers/support/goraph/node"
+	"github.com/velarii/gomega/matchers/support/goraph/util"
 )
 
 // LargestMatching implements the Hopcroft–Karp algorithm taking as input a bipartite graph

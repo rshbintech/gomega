@@ -5,9 +5,9 @@ import (
 	"time"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
+	. "github.com/velarii/gomega"
 
-	"github.com/onsi/gomega/internal"
+	"github.com/velarii/gomega/internal"
 )
 
 var _ = Describe("DurationBundle and Duration Support", func() {

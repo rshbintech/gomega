@@ -3,7 +3,7 @@ package internal
 import (
 	"fmt"
 
-	"github.com/onsi/gomega/types"
+	"github.com/velarii/gomega/types"
 )
 
 // vetOptionalDescription vets the optional description args: if it finds any

@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/onsi/gomega/format"
+	"github.com/velarii/gomega/format"
 )
 
 type BeComparableToMatcher struct {

@@ -12,10 +12,10 @@ import (
 	"strings"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/onsi/gomega"
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/internal/gutil"
-	"github.com/onsi/gomega/types"
+	"github.com/velarii/gomega"
+	. "github.com/velarii/gomega"
+	"github.com/velarii/gomega/internal/gutil"
+	"github.com/velarii/gomega/types"
 )
 
 type GHTTPWithGomega struct {

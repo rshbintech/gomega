@@ -3,8 +3,8 @@ package gleak
 import (
 	"sort"
 
-	"github.com/onsi/gomega/format"
-	"github.com/onsi/gomega/types"
+	"github.com/velarii/gomega/format"
+	"github.com/velarii/gomega/types"
 )
 
 // IgnoringGoroutines succeeds if an actual goroutine, identified by its ID, is

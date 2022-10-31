@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/internal"
+	. "github.com/velarii/gomega"
+	"github.com/velarii/gomega/internal"
 )
 
 func TestInternal(t *testing.T) {

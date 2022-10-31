@@ -8,13 +8,13 @@ import (
 	"regexp"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/onsi/gomega/gbytes"
-	"github.com/onsi/gomega/ghttp/protobuf"
-	"github.com/onsi/gomega/internal/gutil"
+	"github.com/velarii/gomega/gbytes"
+	"github.com/velarii/gomega/ghttp/protobuf"
+	"github.com/velarii/gomega/internal/gutil"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/ghttp"
+	. "github.com/velarii/gomega"
+	. "github.com/velarii/gomega/ghttp"
 )
 
 var _ = Describe("TestServer", func() {

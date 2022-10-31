@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/internal/gutil"
+	. "github.com/velarii/gomega"
+	"github.com/velarii/gomega/internal/gutil"
 )
 
 type myStringer struct {

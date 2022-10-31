@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/onsi/gomega/format"
+	"github.com/velarii/gomega/format"
 )
 
 // G takes an actual "any" untyped value and returns it as a typed Goroutine, if

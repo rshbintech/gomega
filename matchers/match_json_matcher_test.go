@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/onsi/gomega"
-	. "github.com/onsi/gomega/matchers"
+	. "github.com/velarii/gomega"
+	. "github.com/velarii/gomega/matchers"
 )
 
 var _ = Describe("MatchJSONMatcher", func() {

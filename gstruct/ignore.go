@@ -3,7 +3,7 @@
 package gstruct
 
 import (
-	"github.com/onsi/gomega/types"
+	"github.com/velarii/gomega/types"
 )
 
 //Ignore ignores the actual value and always succeeds.
