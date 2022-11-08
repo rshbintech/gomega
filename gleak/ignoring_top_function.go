@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/types"
 )
 
 // IgnoringTopFunction succeeds if the topmost function in the backtrace of an

@@ -6,8 +6,8 @@ import (
 	"time"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	"github.com/velarii/gomega/gmeasure"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/gmeasure"
 )
 
 var _ = Describe("Measurement", func() {

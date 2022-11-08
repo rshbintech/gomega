@@ -129,7 +129,7 @@ func Message(actual interface{}, message string, expected ...interface{}) string
 	if len(expected) == 0 {
 		return fmt.Sprintf("Expected\n%s\n%s", Object(actual, 1), message)
 	}
-	return fmt.Sprintf("Expected\n%s\n%s\n%s", Object(actual, 1), message, Object(expected[0], 1))
+	return fmt.Sprintf("Expected\n%s\n%s\n%s", Object(expected[0], 1), message, Object(actual, 1))
 }
 
 /*

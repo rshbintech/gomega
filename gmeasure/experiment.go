@@ -44,7 +44,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/onsi/gomega/gmeasure/table"
+	"github.com/rshbintech/gomega/gmeasure/table"
 )
 
 /*

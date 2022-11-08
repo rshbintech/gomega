@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/velarii/gomega/internal/gutil"
+	"github.com/rshbintech/gomega/internal/gutil"
 )
 
 const CACHE_EXT = ".gmeasure-cache"

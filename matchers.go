@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/velarii/gomega/matchers"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/matchers"
+	"github.com/rshbintech/gomega/types"
 )
 
 // Equal uses reflect.DeepEqual to compare actual with expected.  Equal is strict about

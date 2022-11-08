@@ -2,8 +2,8 @@ package gexec_test
 
 import (
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	"github.com/velarii/gomega/gexec"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/gexec"
 
 	"testing"
 )

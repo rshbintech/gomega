@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	"github.com/velarii/gomega/internal/gutil"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/internal/gutil"
 )
 
 var _ = Describe("HaveHTTPStatus", func() {

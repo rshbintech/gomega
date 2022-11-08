@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/types"
 )
 
 // IgnoringCreator succeeds if the goroutine was created by a function matching

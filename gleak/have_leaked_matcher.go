@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/velarii/gomega"
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/gleak/goroutine"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/gleak/goroutine"
+	"github.com/rshbintech/gomega/types"
 )
 
 // ReportFilenameWithPath controls whether to show call locations in leak

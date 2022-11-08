@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/internal/gutil"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/internal/gutil"
+	"github.com/rshbintech/gomega/types"
 )
 
 type HaveHTTPBodyMatcher struct {

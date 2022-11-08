@@ -119,8 +119,8 @@ import (
 	"strings"
 	"sync"
 
-	. "github.com/onsi/gomega"
-	"github.com/onsi/gomega/internal/gutil"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/internal/gutil"
 )
 
 func new() *Server {

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/types"
 )
 
 const maxIndirections = 31

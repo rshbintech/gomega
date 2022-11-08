@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/types"
 )
 
 // IgnoringInBacktrace succeeds if a function name is contained in the backtrace

@@ -1,7 +1,7 @@
 package matchers
 
 import (
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/types"
 )
 
 type NotMatcher struct {

@@ -4,9 +4,9 @@ import (
 	"os"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	"github.com/velarii/gomega/internal/gutil"
-	. "github.com/velarii/gomega/matchers"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/internal/gutil"
+	. "github.com/rshbintech/gomega/matchers"
 )
 
 var _ = Describe("BeAnExistingFileMatcher", func() {

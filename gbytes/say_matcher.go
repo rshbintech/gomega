@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/velarii/gomega/format"
+	"github.com/rshbintech/gomega/format"
 )
 
 //Objects satisfying the BufferProvider can be used with the Say matcher.

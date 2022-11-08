@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/velarii/gomega/format"
+	"github.com/rshbintech/gomega/format"
 )
 
 type ContainSubstringMatcher struct {

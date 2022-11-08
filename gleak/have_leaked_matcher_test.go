@@ -7,7 +7,7 @@ import (
 	"time"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
+	. "github.com/rshbintech/gomega"
 )
 
 // Note: Go's stack dumps (backtraces) always contain forward slashes, even on

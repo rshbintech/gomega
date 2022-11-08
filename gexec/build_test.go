@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	"github.com/velarii/gomega/gexec"
-	"github.com/velarii/gomega/internal/gutil"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/gexec"
+	"github.com/rshbintech/gomega/internal/gutil"
 )
 
 var packagePath = "./_fixture/firefly"

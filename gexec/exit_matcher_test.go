@@ -4,10 +4,10 @@ import (
 	"os/exec"
 	"time"
 
-	. "github.com/velarii/gomega/gexec"
+	. "github.com/rshbintech/gomega/gexec"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
+	. "github.com/rshbintech/gomega"
 )
 
 type NeverExits struct{}

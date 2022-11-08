@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/types"
 )
 
 type Gomega struct {

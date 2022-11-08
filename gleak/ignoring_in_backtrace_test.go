@@ -3,10 +3,10 @@ package gleak
 import (
 	"reflect"
 
-	"github.com/velarii/gomega/gleak/goroutine"
+	"github.com/rshbintech/gomega/gleak/goroutine"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
+	. "github.com/rshbintech/gomega"
 )
 
 var _ = Describe("IgnoringInBacktrace matcher", func() {

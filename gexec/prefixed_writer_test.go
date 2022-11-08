@@ -3,10 +3,10 @@ package gexec_test
 import (
 	"bytes"
 
-	. "github.com/velarii/gomega/gexec"
+	. "github.com/rshbintech/gomega/gexec"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
+	. "github.com/rshbintech/gomega"
 )
 
 var _ = Describe("PrefixedWriter", func() {

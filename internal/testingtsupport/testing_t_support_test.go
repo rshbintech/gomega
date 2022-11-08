@@ -1,7 +1,7 @@
 package testingtsupport_test
 
 import (
-	. "github.com/velarii/gomega"
+	. "github.com/rshbintech/gomega"
 
 	"testing"
 )

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/velarii/gomega/format"
+	"github.com/rshbintech/gomega/format"
 	"gopkg.in/yaml.v3"
 )
 

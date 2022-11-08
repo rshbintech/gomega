@@ -5,7 +5,7 @@ package matchers
 import (
 	"fmt"
 
-	"github.com/velarii/gomega/format"
+	"github.com/rshbintech/gomega/format"
 )
 
 type HaveCapMatcher struct {

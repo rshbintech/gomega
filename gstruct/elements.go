@@ -9,9 +9,9 @@ import (
 	"runtime/debug"
 	"strconv"
 
-	"github.com/velarii/gomega/format"
-	errorsutil "github.com/velarii/gomega/gstruct/errors"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/format"
+	errorsutil "github.com/rshbintech/gomega/gstruct/errors"
+	"github.com/rshbintech/gomega/types"
 )
 
 //MatchAllElements succeeds if every element of a slice matches the element matcher it maps to

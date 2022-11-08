@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/velarii/gomega/format"
+	"github.com/rshbintech/gomega/format"
 )
 
 type notARegularFileError struct {

@@ -1,6 +1,6 @@
 package gleak
 
-import "github.com/velarii/gomega/gleak/goroutine"
+import "github.com/rshbintech/gomega/gleak/goroutine"
 
 // Goroutine represents information about a single goroutine and is a
 // convenience type alias.

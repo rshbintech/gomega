@@ -2,7 +2,7 @@
 
 package matchers
 
-import "github.com/velarii/gomega/format"
+import "github.com/rshbintech/gomega/format"
 
 type BeNilMatcher struct {
 }

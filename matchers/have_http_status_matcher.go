@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/velarii/gomega/format"
-	"github.com/velarii/gomega/internal/gutil"
+	"github.com/rshbintech/gomega/format"
+	"github.com/rshbintech/gomega/internal/gutil"
 )
 
 type HaveHTTPStatusMatcher struct {

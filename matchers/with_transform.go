@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/types"
 )
 
 type WithTransformMatcher struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/velarii/gomega/gmeasure/table"
+	"github.com/rshbintech/gomega/gmeasure/table"
 )
 
 /*

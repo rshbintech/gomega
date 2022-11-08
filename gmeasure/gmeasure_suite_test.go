@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	"github.com/velarii/gomega/gleak"
+	. "github.com/rshbintech/gomega"
+	"github.com/rshbintech/gomega/gleak"
 )
 
 func TestGmeasure(t *testing.T) {

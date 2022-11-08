@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/velarii/gomega/gmeasure/table"
+	"github.com/rshbintech/gomega/gmeasure/table"
 )
 
 type MeasurementType uint

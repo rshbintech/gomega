@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/velarii/gomega/internal"
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/internal"
+	"github.com/rshbintech/gomega/types"
 )
 
 const GOMEGA_VERSION = "1.22.1"

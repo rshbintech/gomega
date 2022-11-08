@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
+	. "github.com/rshbintech/gomega"
 )
 
 // In case this suite is run in parallel with other test suites using "ginkgo

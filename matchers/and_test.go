@@ -2,9 +2,9 @@ package matchers_test
 
 import (
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	. "github.com/velarii/gomega/matchers"
-	"github.com/velarii/gomega/types"
+	. "github.com/rshbintech/gomega"
+	. "github.com/rshbintech/gomega/matchers"
+	"github.com/rshbintech/gomega/types"
 )
 
 // sample data

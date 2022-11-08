@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	. "github.com/velarii/gomega/matchers"
+	. "github.com/rshbintech/gomega"
+	. "github.com/rshbintech/gomega/matchers"
 )
 
 var _ = Describe("Equal", func() {

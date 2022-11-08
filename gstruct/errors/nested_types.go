@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/velarii/gomega/types"
+	"github.com/rshbintech/gomega/types"
 )
 
 // A stateful matcher that nests other matchers within it and preserves the error types of the

@@ -8,8 +8,8 @@ import (
 	"github.com/google/go-cmp/cmp/cmpopts"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/velarii/gomega"
-	. "github.com/velarii/gomega/matchers"
+	. "github.com/rshbintech/gomega"
+	. "github.com/rshbintech/gomega/matchers"
 )
 
 type wrapError struct {

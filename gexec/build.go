@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/velarii/gomega/internal/gutil"
+	"github.com/rshbintech/gomega/internal/gutil"
 )
 
 var (
